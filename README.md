@@ -1,4 +1,5 @@
 # My hypr-dots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5a51b3a5-6cd3-4425-b6c3-e5213f03a00f" />
 
 ## Dependencies
 ### Required
